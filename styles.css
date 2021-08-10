@@ -1,0 +1,39 @@
+body
+  {
+   background-color:#F5E8C7;
+   padding: 2rem 2.5rem;
+  background: linear-gradient(#e66465, #9198e5);
+  margin: auto;
+  }
+  div
+  {
+  color: #BD1616;
+  border: 5px solid currentcolor;
+  padding: 15px;
+  
+ }
+ h1
+  {
+  color: #BD1616;
+  text-shadow: 2px 2px black;
+
+  }
+ h3
+  {
+     color: #BD1616;
+
+  }
+  h2
+  {
+
+    color: #BD1616;
+
+  }
+ hr
+  {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #BD1616;
+    border-width: 5px;
+   width: 5%;
+ }
